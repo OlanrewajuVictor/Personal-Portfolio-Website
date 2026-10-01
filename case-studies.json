@@ -1,0 +1,379 @@
+[
+  {
+    "id": "hmrc",
+    "company": "HMRC",
+    "full": "His Majesty’s Revenue & Customs (HMRC)",
+    "date": "July 2022 – Present",
+    "role": "Senior Business Analyst",
+    "location": "Telford",
+    "sector": "Government · Data governance",
+    "title": "GDPR data deletion and retention",
+    "summary": "Requirements, data flows and solution validation for large-scale government data platforms and regulatory change.",
+    "challenge": "Enterprise data platforms holding high-risk tax and income datasets needed clear, enforceable deletion and retention rules to meet GDPR obligations and audit expectations.",
+    "metric": "Data lifecycle",
+    "metricLabel": "Requirements and rules for deletion, retention and auditability",
+    "outcome": "The project portfolio reports a compliant, transparent and fully auditable data-lifecycle model for statutory data, with every rule traceable to a business and legal requirement.",
+    "tags": [
+      "Requirements engineering",
+      "Data mapping",
+      "Governance"
+    ],
+    "facts": [
+      "Led end-to-end requirements definition for the GDPR deletion and retention initiative.",
+      "Mapped enterprise data flows and produced As-Is/To-Be models, source-to-target mappings and transformation rules.",
+      "Defined eligibility logic, automated deletion rules, retention timers, housekeeping jobs and handling of non-deletion reasons.",
+      "Facilitated interviews and workshops with business, data, governance and security teams.",
+      "Led functional specification reviews and testing support, preserving traceability from business need to delivered solution."
+    ],
+    "outputs": "Process models, source-to-target mappings, transformation rules, impact assessments and functional specification reviews.",
+    "page": "2",
+    "skills": [
+      [
+        "Requirements engineering and traceability",
+        "Turned statutory obligations into testable deletion and retention rules."
+      ],
+      [
+        "Data flow and mapping analysis",
+        "Produced source-to-target mappings and transformation rules."
+      ],
+      [
+        "Business rules definition",
+        "Defined eligibility logic, retention timers and non-deletion reasons."
+      ],
+      [
+        "Regulatory and data governance",
+        "Aligned requirements with GDPR, retention policy and audit expectations."
+      ],
+      [
+        "Stakeholder facilitation",
+        "Aligned governance, security, data and delivery teams."
+      ],
+      [
+        "Solution validation",
+        "Reviewed functional specifications and maintained test traceability."
+      ]
+    ],
+    "source": "Ismail_Akinwale_BA_Project_Portfolio.pdf",
+    "framing": "Summarised from the supplied project portfolio; not inferred from the CV."
+  },
+  {
+    "id": "hmrc-dwit",
+    "company": "HMRC",
+    "full": "His Majesty’s Revenue & Customs (HMRC)",
+    "date": "July 2022 – Present",
+    "role": "Senior Business Analyst",
+    "location": "Telford",
+    "sector": "Government · Data migration & integration",
+    "title": "DWIT data migration & HIP integration transformation",
+    "summary": "Defined the requirements, mappings and readiness evidence for wave-based migration to a cloud lakehouse and transformation of legacy interfaces onto the Hybrid Integration Platform.",
+    "challenge": "The portfolio describes multiple legacy warehouses and around 2,000 point-to-point integrations, creating duplication, inconsistent data quality, support costs and scalability challenges. The Data Warehouse and Integration Transformation (DWIT) programme aimed to move warehouse data to a cloud-native lakehouse with Denodo virtualisation and legacy integrations to the Hybrid Integration Platform (HIP).",
+    "metric": "Wave-based",
+    "metricLabel": "Migration scope, mappings and reconciliation evidence, as reported in the project portfolio",
+    "outcome": "The portfolio reports a clear, auditable baseline linking business needs to build, testing and migration evidence. Phased scope, owned assumptions and evidence-based readiness decisions reduced the risk of late surprises in data history and downstream dependencies. It does not quantify savings or establish that every migration wave was completed.",
+    "tags": [
+      "Data migration",
+      "API & integration",
+      "Reconciliation"
+    ],
+    "facts": [
+      "Facilitated discovery and architecture workshops with data, security, platform and integration specialists, engineers, product owners and operational users.",
+      "Built a migration requirements catalogue covering datasets, owners, history, frequency, volumes, retention, transformation rules and downstream consumers.",
+      "Produced source-to-target mappings, data dictionaries, lineage views and reconciliation rules with architects and engineers.",
+      "Assessed legacy interfaces for HIP onboarding, covering protocols, volumes, error handling, security, dependencies and ownership; defined API requirements, interface catalogue entries and service contracts.",
+      "Agreed each wave’s scope, historical period, cleansing rules, critical reports, reconciliation tolerances, rollback and sign-off owners.",
+      "Resolved a business–technical scope conflict through options analysis and phased scope with entry criteria for later waves.",
+      "Triaged late reconciliation variances into defects, approved transformations, source issues and tolerances approved by data owners.",
+      "Strengthened a supplier statement of work with measurable outcomes, acceptance owners, evidence-linked milestones and RAID ownership.",
+      "Managed RAID and traceability across DPS delivery teams; defined test conditions and supported SIT, migration testing, UAT, cutover and go-live readiness."
+    ],
+    "outputs": "Requirements catalogue, traceability matrix, source-to-target mappings, business rules catalogue, interface catalogue, user stories with acceptance criteria, decision log, RAID log, UAT scripts and cutover checklist.",
+    "skills": [
+      [
+        "Data migration and reconciliation",
+        "Defined wave scope, history, reconciliation rules and tolerances."
+      ],
+      [
+        "Mapping and data modelling",
+        "Produced mappings, data dictionaries and lineage for lakehouse targets."
+      ],
+      [
+        "API and integration analysis",
+        "Assessed legacy interfaces and specified HIP onboarding requirements."
+      ],
+      [
+        "Requirements and traceability",
+        "Linked functional, non-functional, security and migration requirements to tests."
+      ],
+      [
+        "Stakeholder management and options analysis",
+        "Resolved scope and architecture-versus-delivery conflicts with evidence."
+      ],
+      [
+        "Data governance and security",
+        "Defined ownership, lineage, quality controls and security requirements."
+      ],
+      [
+        "Supplier and commercial management",
+        "Strengthened the statement of work for acceptance and payment."
+      ],
+      [
+        "Testing, cutover and readiness",
+        "Supported SIT, migration testing, UAT and go-live sign-off."
+      ]
+    ],
+    "source": "Ismail_Akinwale_BA_Project_Portfolio.pdf",
+    "page": "3",
+    "framing": "Summarised from the supplied project portfolio; not inferred from the CV."
+  },
+  {
+    "id": "accenture",
+    "company": "Accenture",
+    "full": "Accenture",
+    "date": "January 2021 – July 2022",
+    "role": "Business Process Analyst",
+    "location": "Manchester",
+    "sector": "Consulting · Process improvement",
+    "title": "Improving the DPS change-impacting process",
+    "summary": "Standardised the data-change impacting process, strengthened quality checks and improved supplier engagement.",
+    "challenge": "Data Platform Services change requests averaged 50 days to assess. Poor-quality supplier responses, incomplete requests and cost-query escalations delayed delivery across multiple teams.",
+    "metric": "50 → 27 days",
+    "metricLabel": "Average impacting duration within six months, as reported in the project portfolio",
+    "outcome": "The project portfolio reports a reduction in average impacting duration from 50 to 27 days within six months, a 25% improvement in project delivery timelines and fewer customer cost queries. These are reported outcomes, not independently audited measurements.",
+    "tags": [
+      "Process optimisation",
+      "Supplier engagement",
+      "Quality assurance"
+    ],
+    "facts": [
+      "Mapped the full process from Clarity requests and Jira tracking through architecture review, D&R documentation, walkthroughs, supplier impacting and consolidated responses.",
+      "Identified bottlenecks with technical business analysts, architects, engagement teams, suppliers and project teams; co-designed and embedded the future process.",
+      "Trained DPS colleagues to assess incoming requests for clarity, completeness and technical readiness.",
+      "Facilitated D&R walkthroughs and dependency meetings to identify impactors, risks, assumptions and constraints early.",
+      "Trained technical business analysts to consolidate supplier responses into coherent impact assessments."
+    ],
+    "outputs": "Structured technical requirements, consolidated impact assessments, quality checks and process improvements.",
+    "page": "4",
+    "skills": [
+      [
+        "Process mapping and bottleneck analysis",
+        "Redesigned the end-to-end impacting process."
+      ],
+      [
+        "Process improvement and governance",
+        "Introduced standard templates, QA gates and timed meetings."
+      ],
+      [
+        "Technical requirements translation",
+        "Structured change requests into POD-aligned requirements."
+      ],
+      [
+        "Supplier and SLA management",
+        "Standardised statements of work and enforced SLA compliance."
+      ],
+      [
+        "Impact assessment and cost review",
+        "Checked scope, RAID ownership and cost before customer response."
+      ],
+      [
+        "Facilitation and coaching",
+        "Coordinated walkthroughs and trained colleagues in QA and impact consolidation."
+      ]
+    ],
+    "source": "Ismail_Akinwale_BA_Project_Portfolio.pdf",
+    "framing": "Summarised from the supplied project portfolio; not inferred from the CV.",
+    "controls": [
+      [
+        "Incomplete requests",
+        "Require adequate information; reject unclear or out-of-estate requests."
+      ],
+      [
+        "Inconsistent D&R documentation",
+        "Standardise the template, baseline before issue and identify impactors up front."
+      ],
+      [
+        "Missed or repeated walkthroughs",
+        "Hold a walkthrough within three days of D&R and agree deliverables before impacting."
+      ],
+      [
+        "Late dependencies",
+        "Hold a dependency and scheduling meeting within 5–10 working days of issue; assign issue owners."
+      ],
+      [
+        "Missed supplier SLA",
+        "Standardise supplier impact statements of work and enforce the 15-day SLA."
+      ],
+      [
+        "Cost and RAID gaps",
+        "Technical BA and POD lead review scope, cost and RAID ownership before returning the assessment."
+      ]
+    ]
+  },
+  {
+    "id": "barclays",
+    "company": "Barclays",
+    "full": "Barclays",
+    "date": "August 2019 – December 2020",
+    "role": "Business Analyst",
+    "location": "London",
+    "sector": "Financial services · Decision automation",
+    "title": "Automated credit-limit decision workflow",
+    "summary": "Translated credit-risk policies into delivery requirements and validated an automated decision workflow with business users.",
+    "challenge": "Credit-limit decisions relied heavily on manual reviews and took days to approve, slowing the customer journey, increasing operational cost and making risk controls harder to apply consistently.",
+    "metric": "40%",
+    "metricLabel": "Reduction in manual reviews, as reported in the project portfolio",
+    "outcome": "The project portfolio reports 40% fewer manual reviews and approval turnaround reduced from days to minutes, alongside improved customer experience, stronger risk control and lower operational cost. No financial saving or measurement methodology is supplied.",
+    "tags": [
+      "Risk rules",
+      "Requirements",
+      "UAT"
+    ],
+    "facts": [
+      "Worked with credit risk, compliance and underwriting teams to identify bottlenecks and model As-Is and To-Be credit workflows.",
+      "Analysed historical credit-limit data, approval patterns and default trends to support new scoring rules and risk thresholds.",
+      "Translated risk policies into business requirements documents, functional specifications and Agile user stories.",
+      "Designed and executed UAT scenarios with business users, and worked with product owners, engineers and QA to refine the backlog, resolve defects and maintain business-rule traceability."
+    ],
+    "outputs": "Workflow models, BRDs, functional specifications, user stories and UAT scenarios.",
+    "page": "5",
+    "skills": [
+      [
+        "Business rules and decision logic",
+        "Translated risk policies into automated decision rules."
+      ],
+      [
+        "Data analysis",
+        "Used approval patterns and default trends to inform scoring thresholds."
+      ],
+      [
+        "Process and automation analysis",
+        "Mapped current and future workflows and automation points."
+      ],
+      [
+        "Requirements documentation",
+        "Produced BRDs, FSDs and user stories with clear decision logic."
+      ],
+      [
+        "UAT design and execution",
+        "Validated decisions against risk appetite."
+      ],
+      [
+        "Risk and compliance",
+        "Aligned requirements with credit policy and regulation."
+      ]
+    ],
+    "source": "Ismail_Akinwale_BA_Project_Portfolio.pdf",
+    "framing": "Summarised from the supplied project portfolio; not inferred from the CV."
+  },
+  {
+    "id": "octopus",
+    "company": "Octopus Energy",
+    "full": "Octopus Energy",
+    "date": "September 2018 – July 2019",
+    "role": "Digital Business Analyst | Agile product delivery",
+    "location": "London",
+    "sector": "Energy · Customer experience",
+    "title": "Smart meter installation journey redesign",
+    "summary": "Used installation performance, customer feedback and engineer data to improve booking flows and operational processes.",
+    "challenge": "Delays, failed installations and missed appointments reduced first-time installation success, affected customer experience and wasted field engineer capacity.",
+    "metric": "25%",
+    "metricLabel": "Improvement in first-time installation success within six months, as reported in the project portfolio",
+    "outcome": "The project portfolio reports a 25% improvement in first-time smart meter installation success within six months. The supplied sources do not specify whether this is a relative change or a percentage-point increase, so the original wording is retained.",
+    "tags": [
+      "Customer journeys",
+      "Root-cause analysis",
+      "Agile delivery"
+    ],
+    "facts": [
+      "Partnered with operations, product and field teams to refine the end-to-end smart meter installation journey.",
+      "Analysed performance, customer feedback and engineer data to identify root causes of delays, failed installs and missed appointments.",
+      "Translated business needs into user stories and process improvements for booking flows and customer communications.",
+      "Supported delivery with dashboards, insights and change-ready processes."
+    ],
+    "outputs": "User stories, booking-flow improvements, customer communication improvements, dashboards and operational insights.",
+    "page": "6",
+    "skills": [
+      [
+        "Customer journey analysis",
+        "Refined the end-to-end installation journey."
+      ],
+      [
+        "Root-cause and data analysis",
+        "Analysed performance, customer feedback and engineer data."
+      ],
+      [
+        "Agile delivery and user stories",
+        "Translated booking-flow improvements into backlog items."
+      ],
+      [
+        "Dashboards and reporting",
+        "Provided insights for delivery and operations teams."
+      ],
+      [
+        "Cross-functional collaboration",
+        "Aligned operations, product and field teams."
+      ],
+      [
+        "Process improvement",
+        "Targeted booking and communication friction."
+      ]
+    ],
+    "source": "Ismail_Akinwale_BA_Project_Portfolio.pdf",
+    "framing": "Summarised from the supplied project portfolio; not inferred from the CV."
+  },
+  {
+    "id": "nhs",
+    "company": "Black Country Healthcare NHS FT",
+    "full": "Black Country Healthcare NHS Foundation Trust",
+    "date": "June 2017 – August 2018",
+    "role": "Business Analyst",
+    "location": "West Bromwich",
+    "sector": "Healthcare · Digital transformation",
+    "title": "Electronic Patient Record requirements and procurement",
+    "summary": "Created validated requirements and process maps to support EPR procurement and the move away from paper-based pathways.",
+    "challenge": "The Trust needed validated requirements and processes that clinicians trusted to support procurement of an Electronic Patient Record system and the move from paper-based pathways.",
+    "metric": "30%",
+    "metricLabel": "Faster EPR procurement decision, as reported in the project portfolio",
+    "outcome": "The project portfolio reports that a fully validated requirements and process-mapping pack accelerated the EPR procurement decision by 30%, reduced ambiguity and strengthened clinical confidence. It does not establish a completed system rollout or measured patient outcomes.",
+    "tags": [
+      "Clinical workflows",
+      "Requirements",
+      "Procurement"
+    ],
+    "facts": [
+      "Captured requirements with clinical, operational and digital teams and facilitated workshops to baseline current processes and co-design future workflows.",
+      "Produced end-to-end process maps, gap analyses, requirements documentation and procurement-ready specifications.",
+      "Developed evaluation criteria and aligned requirements with programme priorities and NHS governance standards.",
+      "Worked with system configuration specialists and programme managers to reflect clinical needs and identify policy, process and workflow changes for the transition to digital pathways."
+    ],
+    "outputs": "Validated requirements and process-mapping pack, gap analyses, procurement specifications and evaluation criteria.",
+    "page": "7",
+    "skills": [
+      [
+        "Clinical requirements elicitation",
+        "Captured actionable requirements from frontline users."
+      ],
+      [
+        "Workshop facilitation and co-design",
+        "Baselined current processes and co-designed digital workflows."
+      ],
+      [
+        "Process mapping and gap analysis",
+        "Mapped clinical and operational processes end to end."
+      ],
+      [
+        "Procurement support",
+        "Developed specifications and evaluation criteria."
+      ],
+      [
+        "Business change management",
+        "Identified policy and workflow changes for the digital transition."
+      ],
+      [
+        "NHS governance",
+        "Aligned documentation with governance standards."
+      ]
+    ],
+    "source": "Ismail_Akinwale_BA_Project_Portfolio.pdf",
+    "framing": "Summarised from the supplied project portfolio; not inferred from the CV."
+  }
+]
