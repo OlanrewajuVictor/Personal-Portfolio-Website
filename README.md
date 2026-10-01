@@ -60,3 +60,8 @@ This handoff is a local source package for VS Code and Lovable. No public deploy
 ## Accessibility and maintenance
 
 The site uses semantic landmarks, one main heading, a skip link, descriptive portrait alt text, keyboard-visible focus, native expandable case studies, reduced-motion support and responsive layouts. Content remains readable when JavaScript is disabled. There are no trackers, third-party fonts, cookies or external scripts. Browser checks do not replace a full assistive-technology audit; retain these behaviours during future edits.
+
+
+## Skills section update
+
+Use the current HTML and `skills.json` for six Core Competencies cards and seven Tools & Technologies groups, following the supplied screenshot layout examples. Content comes from the CV (competencies, tools and techniques) and project portfolio (particularly DWIT/HIP and DPS). Screenshots are visual references, not evidence of additional skills. Do not add proficiency bars or unsupported tools such as Tableau, Python, Power Platform or Salesforce. Denodo and HIP are labelled programme context; AWS and UiPath are foundation-level context. `skills.json` is an adaptation reference, not a live source; keep it aligned with HTML edits.

@@ -32,3 +32,8 @@ Privacy and accuracy: show no telephone number, personal address, unrelated publ
 Implementation: componentise Header, Hero, About, ExperienceTimeline, ProjectCard, Skills, Qualifications, Contact and Footer. Keep project content as typed data using the supplied JSON. Put portrait and PDF under public/assets and correct all paths. Use semantic landmarks, one H1, meaningful alt text, a skip link, visible focus, keyboard-accessible native details/summary or equivalent accessible disclosure controls. All essential text must render without waiting for external data. No backend, accounts, analytics, external fonts or API keys are needed.
 
 Verify at 375px, 768px and 1440px, plus 200% text enlargement. Ensure no horizontal overflow, menu and disclosures work with keyboard/touch, internal links reach correct sections, portrait loads and CV download returns the actual PDF. Preserve British English. Return a finished preview and explain any remaining verification limits.
+
+
+## Skills section update
+
+Use the current HTML and `skills.json` for six Core Competencies cards and seven Tools & Technologies groups, following the supplied screenshot layout examples. Content comes from the CV (competencies, tools and techniques) and project portfolio (particularly DWIT/HIP and DPS). Screenshots are visual references, not evidence of additional skills. Do not add proficiency bars or unsupported tools such as Tableau, Python, Power Platform or Salesforce. Denodo and HIP are labelled programme context; AWS and UiPath are foundation-level context. `skills.json` is an adaptation reference, not a live source; keep it aligned with HTML edits.

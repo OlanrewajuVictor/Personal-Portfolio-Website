@@ -40,3 +40,8 @@ No additional web-derived biographical claim met the confidence threshold. The u
 ## Verification limits
 
 The CV establishes what the user reported; it is not employer verification. Dates, employment, certifications, education and metrics have not been confirmed by employers or issuing bodies. “Present” is retained as the CV states it. The “SC cleared” wording is not promoted on the page because current clearance is not established; it remains in the unchanged downloadable source. The NHS organisation name is reproduced from the CV rather than retroactively corrected without evidence.
+
+
+## Skills section update
+
+Use the current HTML and `skills.json` for six Core Competencies cards and seven Tools & Technologies groups, following the supplied screenshot layout examples. Content comes from the CV (competencies, tools and techniques) and project portfolio (particularly DWIT/HIP and DPS). Screenshots are visual references, not evidence of additional skills. Do not add proficiency bars or unsupported tools such as Tableau, Python, Power Platform or Salesforce. Denodo and HIP are labelled programme context; AWS and UiPath are foundation-level context. `skills.json` is an adaptation reference, not a live source; keep it aligned with HTML edits.

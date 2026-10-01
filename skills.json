@@ -1,0 +1,135 @@
+{
+  "competencies": [
+    [
+      "Business Analysis & Requirements",
+      [
+        "Requirements elicitation, analysis and traceability",
+        "Epics, user stories and acceptance criteria",
+        "Business case support and options analysis",
+        "Scope and backlog prioritisation",
+        "Business rules and decision logic"
+      ]
+    ],
+    [
+      "Process Improvement & Change",
+      [
+        "As-Is / To-Be process mapping",
+        "Gap analysis and bottleneck analysis",
+        "Customer journey analysis",
+        "Implementation and business change planning",
+        "Procurement requirements and evaluation criteria"
+      ]
+    ],
+    [
+      "Data Migration & Integration",
+      [
+        "Source-to-target mapping and data lineage",
+        "Migration scope and wave planning",
+        "Data reconciliation rules and tolerances",
+        "API requirements and interface analysis",
+        "Data quality, retention and deletion rules"
+      ]
+    ],
+    [
+      "Delivery, Testing & Governance",
+      [
+        "Agile and Waterfall delivery",
+        "Risk, issue and dependency management",
+        "Solution validation and test traceability",
+        "SIT, migration testing and UAT support",
+        "Cutover and go-live readiness"
+      ]
+    ],
+    [
+      "Stakeholder Engagement",
+      [
+        "Stakeholder interviews and workshop facilitation",
+        "Cross-functional business and technical liaison",
+        "Requirements walkthroughs and co-design",
+        "Conflict resolution and evidence-based decisions",
+        "Coaching and knowledge transfer"
+      ]
+    ],
+    [
+      "Supplier & Regulatory Analysis",
+      [
+        "Supplier impact assessment and cost review",
+        "Statements of work and acceptance criteria",
+        "Supplier SLA management",
+        "GDPR and data-governance requirements",
+        "Security, audit and compliance alignment"
+      ]
+    ]
+  ],
+  "toolsAndTechnologies": [
+    [
+      "Analytics & Reporting",
+      [
+        "SQL",
+        "Power BI",
+        "Microsoft 365"
+      ]
+    ],
+    [
+      "Process Mapping & Modelling",
+      [
+        "BPMN",
+        "UML",
+        "Visio",
+        "Miro",
+        "Use cases",
+        "User journeys",
+        "Wireframes & prototypes"
+      ]
+    ],
+    [
+      "Delivery & Collaboration",
+      [
+        "Jira",
+        "Confluence",
+        "Azure DevOps",
+        "Clarity"
+      ]
+    ],
+    [
+      "Requirements & Prioritisation",
+      [
+        "Epics & user stories",
+        "Gherkin acceptance criteria",
+        "MoSCoW",
+        "Backlog refinement",
+        "Traceability matrices"
+      ]
+    ],
+    [
+      "Data & Integration",
+      [
+        "Source-to-target mappings",
+        "Data dictionaries",
+        "Data lineage",
+        "API & interface specifications",
+        "Reconciliation rules",
+        "Denodo virtualisation — programme context",
+        "Hybrid Integration Platform (HIP) — programme context"
+      ]
+    ],
+    [
+      "Automation & Cloud Foundations",
+      [
+        "UiPath — RPA Business Analyst Foundation",
+        "AWS — cloud fundamentals"
+      ]
+    ],
+    [
+      "Methodologies & Practices",
+      [
+        "Agile",
+        "Waterfall",
+        "Scrum",
+        "AgilePM",
+        "As-Is / To-Be analysis",
+        "RAID management"
+      ]
+    ]
+  ]
+}
